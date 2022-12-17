@@ -6,7 +6,7 @@ title: Hue White and Color 1100 B22
 category: bulb
 supports: brightness, colortemp, color
 zigbeemodel: ['LCA006']
-compatible: [z2m]
+compatible: [z2m, zha]
 z2m: 9290024689
 mlink: https://www.philips-hue.com/en-gb/p/hue-white-and-colour-ambiance-1-pack-b22/8719514291218
 link: https://www.amazon.co.uk/dp/B099NQRCFX/
